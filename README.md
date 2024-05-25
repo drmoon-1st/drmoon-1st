@@ -5,3 +5,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdrmoon-1st%2Fdrmoon-1st&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmoon-1st&show_icons=true&theme=radical)
+
+
+> <br>문경환</br>, 옥수열, 서정일, 이석환.(2024).Meta Pseudo Labels 기반 딥페이크 영상 검출.멀티미디어학회논문지,27(1),9-21.
