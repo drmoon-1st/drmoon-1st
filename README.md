@@ -12,5 +12,4 @@
 [paper](https://doi.org/10.3390/app14083249)
 <br>
 <strong>문경환</strong>, 옥수열, 서정일, 이석환.(2024).Meta Pseudo Labels 기반 딥페이크 영상 검출.멀티미디어학회논문지,27(1),9-21. 
-
 [paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048387)
