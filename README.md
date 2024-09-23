@@ -9,7 +9,6 @@
 <h3>Papers</h3>
 
 <strong>Moon, K.-H.</strong>; Ok, S.-Y.; Lee, S.-H. SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection. Appl. Sci. 2024, 14, 3249.
-
 [paper](https://www.mdpi.com/2076-3417/14/8/3249)
 
 <br><br>
