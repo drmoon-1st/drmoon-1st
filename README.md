@@ -8,7 +8,7 @@
 
 <h3>Papers</h3>
 
-QSegRNN: Quantum Segment Recurrent Neural Network For Time Series Forecasting [paper(not updated)]()
+<strong>Moon, KH.<strong>, Jeong, SG. & Hwang, WJ. QSegRNN: quantum segment recurrent neural network for time series forecasting. EPJ Quantum Technol. 12, 32 (2025). [paper](https://doi.org/10.1140/epjqt/s40507-025-00333-6)
 
 <strong>Moon, K.-H.</strong>; Ok, S.-Y.; Lee, S.-H. SupCon-MPL-DP: Supervised Contrastive Learning with Meta Pseudo Labels for Deepfake Image Detection. Appl. Sci. 2024, 14, 3249.
 [paper](https://www.mdpi.com/2076-3417/14/8/3249) | [github](https://github.com/drmoon-1st/SupCon-MPL)
