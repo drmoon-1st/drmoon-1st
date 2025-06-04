@@ -4,7 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmoon-1st&show_icons=true&theme=radical)
 
-<h2>CV ([link](https://drive.google.com/file/d/1KFXwvANLVIxZRo8r-qNRV9hVFtNa5FT9/view?usp=drive_link))</h2>
+<h2>CV</h2>
+[link](https://drive.google.com/file/d/1KFXwvANLVIxZRo8r-qNRV9hVFtNa5FT9/view?usp=drive_link)
 
 <h3>Papers</h3>
 
