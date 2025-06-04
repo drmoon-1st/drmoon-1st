@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmoon-1st&show_icons=true&theme=radical)
 
+<h2>CV ([link](https://drive.google.com/file/d/1KFXwvANLVIxZRo8r-qNRV9hVFtNa5FT9/view?usp=drive_link))</h2>
+
 <h3>Papers</h3>
 
 <strong>Moon, KH.</strong>, Jeong, SG. & Hwang, WJ. QSegRNN: quantum segment recurrent neural network for time series forecasting. EPJ Quantum Technol. 12, 32 (2025). (Q1, 8.7%)
