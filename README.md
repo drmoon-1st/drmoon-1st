@@ -1,12 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20MOON!&fontAlign=60&fontAlignY=40&color=gradient&customColorList=6)
 
-<a href="https://ritzy-math-423.notion.site/MOON-FLOW-d04ce5c6e135450f91ac93276d6e49c4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=FFFFFF"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drmoon-1st&show_icons=true&theme=radical)
-
 <h3>CV</h3>
 
-[KHM CV](https://drive.google.com/file/d/1KFXwvANLVIxZRo8r-qNRV9hVFtNa5FT9/view?usp=drive_link)
+[KHM CV](https://drive.google.com/file/d/1F63QIG-Y1aNlkVmNygS2BcvysxB4OlqH/view?usp=sharing)
 
 <h3>Papers</h3>
 
